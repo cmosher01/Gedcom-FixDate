@@ -23,7 +23,6 @@ class GedcomDateFixerData {
         put("FEBRUARY", 2);
         put("MARCH", 3);
         put("APRIL", 4);
-        put("MAY", 5);
         put("JUNE", 6);
         put("JULY", 7);
         put("AUGUST", 8);
